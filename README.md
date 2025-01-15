@@ -1,5 +1,9 @@
 # User App Documentation
 
+
+# User App Deployment
+- https://peppy-belekoy-6abdc0.netlify.app/.
+
 ## Project Overview
 This project is a user management application built using React. It incorporates dark mode functionality, user context for data sharing, and various pages for user listing and detailed views.
 
@@ -24,7 +28,7 @@ src/
 1. Clone the repository:
    ```bash
    git clone https://github.com/Shiakh0112/Wisdom-Peak-Analytics-User-state-management.git
-   cd 
+   cd React-user-app
    ```
 
 2. Install dependencies:
